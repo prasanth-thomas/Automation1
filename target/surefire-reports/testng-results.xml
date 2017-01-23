@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49879" started-at="2017-01-23T09:42:07Z" finished-at="2017-01-23T09:42:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="49879" started-at="2017-01-23T09:42:07Z" finished-at="2017-01-23T09:42:57Z">
+      <class name="QAD.Automation.TestDriver">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:QAD.Automation.TestDriver@1324409e]" name="setUp" is-config="true" duration-ms="11651" started-at="2017-01-23T15:12:07Z" finished-at="2017-01-23T15:12:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="QADTest()[pri:0, instance:QAD.Automation.TestDriver@1324409e]" name="QADTest" duration-ms="36157" started-at="2017-01-23T15:12:19Z" finished-at="2017-01-23T15:12:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QADTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:QAD.Automation.TestDriver@1324409e]" name="tearDown" is-config="true" duration-ms="2040" started-at="2017-01-23T15:12:55Z" finished-at="2017-01-23T15:12:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- QAD.Automation.TestDriver -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
